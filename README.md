@@ -1,5 +1,5 @@
 - @Jhelmis
-- Programming, game development
+- Programming & game development
 - Currently working on a project
 - @Jhelmisen on twitter
 
